@@ -1,0 +1,14 @@
+Wine Glass
+
+Attributes:
+1. color (clear)
+2. recyclable (no/false)
+3. totalCapacity (30-3/8 oz.)
+4. shape (traditional)
+5. currentCapacity (half filled 6.6 kg)
+
+Methods:
+calculatePercentFull (6.6 kg/ 3/8 oz.)
+determineTotalCapacity (5/8" / 1/8")
+refill (3/8 oz - 6.6 kg)
+changeShape (drop glasses loses traditional form/shape)
