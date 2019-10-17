@@ -1,0 +1,60 @@
+How to become a Turing student
+
+1. Look up software development schools
+  1.1 click on the Turing website.
+    1.1.1 explore website
+      1.1.1.1 look at both front-end & back-end programs
+  1.2 decide this is where you want to study
+
+2. begin application process
+  2.1 prepare for the logical questions
+    2.1.1 begin application by setting up a login
+      2.1.1.1 type in your general information
+  2.2 go to next page and fill out survey about yourself.
+  2.3 go to next page and prepare for logical questions.
+    2.3.1 make sure to have something to write with and paper
+    2.3.1 take the quiz
+  2.4 end quiz and submit application
+2.5 Wait to hear feed back about application
+  2.5.1 check emails constantly
+  2.5.1 look for email with names "Turing & Erin"
+    2.5.2 open email
+      2.5.2.2 read feed back from Erin
+      2.5.2.2 celebrate that you made it to the next step
+        2.5.3 schedule interview either remote or in person.
+        2.5.3 put interview in calendar
+2.6 prepare for interview
+  2.6.1 study more logic questions
+
+3. Get ready for interview
+  3.1 leave home at reasonable hour
+    3.1.1 get to Turing earlier than interview.
+  3.2 Wait for interviewer to call you back.
+    3.2.1 follow interviewer
+  3.3 Complete interview
+    3.3.1 do logic questions
+      3.3.1.1 talk to interviewer ask question/for help
+      3.3.1.1.1 think out loud for your interviewer so then can understand your thinking process
+      3.3.1.1.1.1 look over work and turn in sheet
+    3.3.2 answer questions that interviewer has with honesty
+  3.4 go home & wait for an email
+    3.4.1 receive email stating you got in
+    3.4.1 celebrate you got in
+
+4. create Github
+  4.1 do things that Erin said to do in email
+   4.1.1 set up call with Darren
+    4.1.1.1 pay your deposit
+      4.1.1.1.1 Complete surveys
+        4.1.1.1.1 sign student enrollment agreement
+  4.2 finish list
+
+5. be ready to start mod0 with Tim & David by receiving email from David
+  5.1 start 1st session
+  5.2 stay on top of joining session
+    5.2.2 stay on top of HW
+      5.2.2.2 stay on top of capstone
+  5.3 prepare for mod0 technical assessment
+  5.4 take assessment in good time
+  5.5 finish and turn in capstone to best of your ability
+6. be ready to start mod 1 on set date.
