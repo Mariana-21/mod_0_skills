@@ -1,0 +1,14 @@
+restaurants: drinking Glasses
+
+Attributes:
+1. color (string)
+2. recyclable (boolean)
+3. totalCapacity (integer)
+4. shape (string)
+5. currentCapacity (integer)
+
+Methods:
+calculatePercentFull (divide currentCapacity by totalCapacity)
+determineTotalCapacity (divide hight and width)
+refill (determineTotalCapacity and substract currentCapacityfrom it)
+changeShape (break glasses will change changeShape )
