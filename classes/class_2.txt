@@ -1,0 +1,12 @@
+dinning area
+
+Attributes:
+tables or booths (boolean)
+quantity of chairs (integer)
+color of tables (string)
+material of tables (string)
+
+determineTotalAmountOfChairs (total  amount of tables and multiply that by four)
+changeMaterialOfTables (go from cheap fake wood to real authentic wood)
+changeColorOftables (Stain wood for darker color)
+determineAmountOfPeopleToBeSeatedAtTable (calcualte how many people want to be seated and surround table with that amount of chairs.)
