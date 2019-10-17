@@ -1,0 +1,13 @@
+Tables in dinning area
+
+Attributes:
+tables&Booths: false 
+quantityOfTables: 20
+colorOfTables: yellow birch
+materialOfTables: laminateWood
+
+Methods:
+determineTotalAmountOfChairs: (20 * 4 )
+changeColorOftables: (stain tables to cedar color)
+changeMaterialOfTables: (take away laminateWood and use real oakwood)
+determineAmountOfPeopleToBeSeatedAtTable: (amount of people: 8, put two tables together and surround with 8 chairs.)
