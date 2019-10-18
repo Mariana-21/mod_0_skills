@@ -3,12 +3,12 @@ restaurants: drinking Glasses
 Attributes:
 1. color (string)
 2. recyclable (boolean)
-3. totalCapacity (integer)
+3. total_Capacity (float)
 4. shape (string)
-5. currentCapacity (integer)
+5. current_Capacity (float)
 
 Methods:
-calculatePercentFull (divide currentCapacity by totalCapacity)
-determineTotalCapacity (divide hight and width)
-refill (determineTotalCapacity and substract currentCapacityfrom it)
-changeShape (break glasses will change changeShape )
+calculate_Percent_Full (divide currentCapacity by totalCapacity)
+determine_Total_Capacity (divide hight and width)
+refill (determine_Total_Capacity and substract current_Capacityfrom it)
+change_Shape (break glasses will change changeShape )
