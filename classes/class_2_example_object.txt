@@ -1,13 +1,13 @@
-Tables in dinning area
+Tables in formal dinning area
 
 Attributes:
-tables&Booths: false 
-quantityOfTables: 20
-colorOfTables: yellow birch
-materialOfTables: laminateWood
+tables_&_Booths: false
+quantity_Of_Tables: 20
+color_Of_Tables: "yellow birch"
+material_Of_Tables: "laminateWood"
 
 Methods:
-determineTotalAmountOfChairs: (20 * 4 )
-changeColorOftables: (stain tables to cedar color)
-changeMaterialOfTables: (take away laminateWood and use real oakwood)
-determineAmountOfPeopleToBeSeatedAtTable: (amount of people: 8, put two tables together and surround with 8 chairs.)
+determine_Total_Amount_Of_Chairs: (20 * 4 )
+change_Color_Of_tables: (stain tables to cedar color)
+change_Material_Of_Tables: (take away laminateWood and use real oakwood)
+determine_Amount_Of_People_Be_Seated_At_Table: (amount of people: 8, put two tables together and surround with 8 chairs.)
